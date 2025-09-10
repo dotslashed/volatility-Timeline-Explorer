@@ -67,5 +67,7 @@ The above command will create a unique guid csv file inside the folder and will 
 The ```-KeepFile``` switch will save the CSVs permanently (Optional)  
 
 Output Image:
-<img width="1869" height="974" alt="image" src="https://github.com/user-attachments/assets/474683b2-2f45-4a26-8492-bfc00e8642fe" />
+<img width="1869" height="974" alt="image" src="https://github.com/user-attachments/assets/474683b2-2f45-4a26-8492-bfc00e8642fe" />  
+
+**Credits:** [Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md)
 
